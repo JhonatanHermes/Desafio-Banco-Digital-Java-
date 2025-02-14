@@ -35,10 +35,3 @@ O repositório disponibilizado no GitHub fornecerá um modelo de implementação
 - **Herança**: Criar classes especializadas, como diferentes tipos de contas.
 - **Polimorfismo**: Aplicar métodos que podem ter diferentes comportamentos conforme o tipo de conta.
   
-### **Entrega**
-Ao final do projeto, você deverá:
-- Subir o código para um repositório GitHub.
-- Documentar o código, explicando as principais classes, métodos e decisões de design.
-- Incluir possíveis melhorias ou extensões que foram implementadas.
-
-Esse desafio oferece uma oportunidade prática de aplicar e aprofundar seus conhecimentos de POO, além de contribuir para um projeto realista de um banco digital.
